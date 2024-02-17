@@ -1,16 +1,15 @@
-### Hi there 👋
+# Gu there! I'm David
 
-<!--
-**wckq/wckq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Minecraft developer and Full Stack Developer**; I'm knowledgeable various technologies essentials for the market's demands.
 
-Here are some ideas to get you started:
+Additionally, I have 5 years of experience in Minecraft Plugins and 2 years in Full Stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Developer Skills
+### Languages
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,java,cs,python)](https://skillicons.dev)
+
+### Technologies
+[![Technologies](https://skillicons.dev/icons?i=react,vite,express,nestjs,mysql,postgres,mongo,redis,maven,gradle)](https://skillicons.dev)
+
+### Current Learning
+[![Learning](https://skillicons.dev/icons?i=django,docker,dotnet)](https://skillicons.dev)
