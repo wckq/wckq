@@ -1,4 +1,4 @@
-# Gu there! I'm David
+# Hi there! I'm David
 
 I'm a **Minecraft developer and Full Stack Developer**; I'm knowledgeable various technologies essentials for the market's demands.
 
