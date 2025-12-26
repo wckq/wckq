@@ -12,4 +12,4 @@ Additionally, I have 5 years of experience in Minecraft Plugins and 2 years in F
 [![Technologies](https://skillicons.dev/icons?i=react,vite,express,nestjs,mysql,postgres,mongo,redis,maven,gradle,astro)](https://skillicons.dev)
 
 ### Current Learning
-[![Learning](https://skillicons.dev/icons?i=django,docker,dotnet)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
