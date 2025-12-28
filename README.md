@@ -4,6 +4,8 @@ I'm a **Minecraft developer and Full Stack Developer**; I'm knowledgeable variou
 
 Additionally, I have 5 years of experience in Minecraft Plugins and 2 years in Full Stack development.
 
+[![wakatime](https://wakatime.com/badge/user/1e638781-055d-417c-ace5-1d69ad46f45b.svg)](https://wakatime.com/@1e638781-055d-417c-ace5-1d69ad46f45b)
+
 ## Developer Skills
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=html,css,js,ts,java,cs,python)](https://skillicons.dev)
