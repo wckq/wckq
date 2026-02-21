@@ -1,17 +1,19 @@
-# Hi there! I'm David
+# Hello! I'm David
 
-I'm a **Back End Developer**; I'm knowledgeable various technologies essentials for the market's demands.
+**Back End Developer** with 1 year of experience, knowledgeable in various essential technologies to meet market demands.
 
-Additionally, I have 1 year of experience in Back End development.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wckq&theme=material-palenight&hide_border=true&background=FFFFFF00)
 
 [![wakatime](https://wakatime.com/badge/user/1e638781-055d-417c-ace5-1d69ad46f45b.svg)](https://wakatime.com/@1e638781-055d-417c-ace5-1d69ad46f45b)
 
-## Developer Skills
-### Languages
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,java,python)](https://skillicons.dev)
+## Languages
 
-### Technologies
-[![Technologies](https://skillicons.dev/icons?i=express,nestjs,mysql,postgres,mongo,redis,maven,gradle,astro)](https://skillicons.dev)
+![Languages](https://skillicons.dev/icons?i=html,css,js,ts,java,python)
 
-### Current Learning
-[![Learning](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+## Technologies
+
+![Technologies](https://skillicons.dev/icons?i=express,nestjs,mysql,postgres,mongo,redis,maven,gradle,astro)
+
+## Currently Learning
+
+![Spring](https://skillicons.dev/icons?i=spring)
