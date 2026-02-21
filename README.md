@@ -4,9 +4,8 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wckq&theme=material-palenight&hide_border=true&background=FFFFFF00"></img>
+  <img src="https://wakatime.com/badge/user/1e638781-055d-417c-ace5-1d69ad46f45b.svg)](https://wakatime.com/@1e638781-055d-417c-ace5-1d69ad46f45b"></img>
 </p>
-
-[![wakatime](https://wakatime.com/badge/user/1e638781-055d-417c-ace5-1d69ad46f45b.svg)](https://wakatime.com/@1e638781-055d-417c-ace5-1d69ad46f45b)
 
 ## Languages
 
