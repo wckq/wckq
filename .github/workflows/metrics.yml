@@ -18,14 +18,23 @@ jobs:
           user: wckq
           template: classic
           filename: metrics.base.svg
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community
           config_timezone: America/Mexico_City
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
+
           plugin_languages: yes
           plugin_languages_sections: most-used
+          plugin_languages_limit: 6
+
           plugin_habits: yes
-          plugin_habits_from: 100
+          plugin_habits_from: 50
+          plugin_habits_days: 7
+          plugin_habits_facts: no
+          plugin_habits_charts: no
+
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
+          plugin_achievements_limit: 5
+          plugin_achievements_display: compact
 
       # Calendario isométrico
       - uses: lowlighter/metrics@latest
