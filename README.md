@@ -21,6 +21,5 @@
 ![Spring](https://skillicons.dev/icons?i=spring)
 
 <p align="center">
-  <img src="/metrics.base.svg" alt="Metrics" width="100%">
+  <img src="metrics.svg" width="500" />
 </p>
-
